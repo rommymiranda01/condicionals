@@ -2,11 +2,13 @@ import java.util.Scanner;
 
 public class Aleatori {
     public static void main(String[] args) {
-        long milisegons;
-        int numAleatori;
         Scanner daw = new Scanner(System.in);
-        System.out.println("Introdueix un número: ");
-        milisegons = System.currentTimeMillis();
-        System.out.println("El número aleatori és: "+(milisegons%10));
+        int numIntroduit;
+        long numAleatori;
+        System.out.print("Introdueix un número del 10 al 100: ");
+        numIntroduit=daw.nextInt();
+        long timestap = System.currentTimeMillis();
+        numAleatori = (timestap % numIntroduit)+1;
+        System.out.println("El número aleatori és: "+numAleatori);
     }
 }
