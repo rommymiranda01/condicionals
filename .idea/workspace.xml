@@ -24,10 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
       <workItem from="1601649739206" duration="10000" />
       <workItem from="1601649755674" duration="37000" />
       <workItem from="1601816292172" duration="371000" />
-      <workItem from="1601825338666" duration="80000" />
+      <workItem from="1601825338666" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="Ex1">
       <created>1601571576273</created>
@@ -93,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601571576273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1601825432349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601825432349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1601825527878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601825527878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +115,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -113,9 +136,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex1" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="120" y="55" key="DiffContextDialog" timestamp="1601825477171">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="120" y="55" key="DiffContextDialog/0.0.1280.728@0.0.1280.728" timestamp="1601825477171" />
     <state x="420" y="105" key="FileChooserDialogImpl" timestamp="1601572015250">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
@@ -124,10 +152,10 @@
       <screen x="0" y="0" width="1280" height="728" />
     </state>
     <state x="141" y="9" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1601571954930" />
-    <state x="232" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601572111492">
+    <state x="232" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601825545378">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
-    <state x="232" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.728@0.0.1280.728" timestamp="1601572111492" />
+    <state x="232" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.728@0.0.1280.728" timestamp="1601825545378" />
     <state x="457" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601572046158">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
