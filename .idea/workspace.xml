@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercici1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercici2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iHitDu5SZ58rEV8r2pOSnXkqF9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,8 +54,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicisbasics-rommymiranda01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,16 +79,62 @@
       <option name="presentableId" value="Default" />
       <updated>1601571131070</updated>
       <workItem from="1601571132093" duration="160000" />
+      <workItem from="1601571389928" duration="498000" />
+      <workItem from="1601571903436" duration="218000" />
+      <workItem from="1601649739206" duration="10000" />
+      <workItem from="1601649755674" duration="37000" />
+      <workItem from="1601816292172" duration="371000" />
+      <workItem from="1601825338666" duration="80000" />
     </task>
+    <task id="LOCAL-00001" summary="Ex1">
+      <created>1601571576273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601571576273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601571288534">
+    <state x="420" y="105" key="FileChooserDialogImpl" timestamp="1601572015250">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
-    <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.728@0.0.1280.728" timestamp="1601571288534" />
+    <state x="420" y="105" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1601572015250" />
+    <state x="141" y="9" key="SettingsEditor" timestamp="1601571954930">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="141" y="9" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1601571954930" />
+    <state x="232" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601572111492">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="232" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.728@0.0.1280.728" timestamp="1601572111492" />
+    <state x="457" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601572046158">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="457" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.728@0.0.1280.728" timestamp="1601572046158" />
+    <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601825407522">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.728@0.0.1280.728" timestamp="1601825407522" />
   </component>
 </project>
