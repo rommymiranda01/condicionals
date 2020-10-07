@@ -13,11 +13,6 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:condicionals" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
@@ -30,8 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="kl.k">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +60,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Ex5">
+  <component name="RunManager" selected="Application.Exercici3">
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4" />
+      <module name="Exercicis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5" />
       <module name="Exercicis" />
@@ -81,19 +82,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Exercici3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercici3" />
+      <module name="Exercicis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercici3" />
+        <item itemvalue="Application.Ex4" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex7" />
       </list>
@@ -118,7 +130,8 @@
       <workItem from="1602052466380" duration="12000" />
       <workItem from="1602052666677" duration="8000" />
       <workItem from="1602052696489" duration="52000" />
-      <workItem from="1602052782927" duration="4375000" />
+      <workItem from="1602052782927" duration="5645000" />
+      <workItem from="1602066865182" duration="2859000" />
     </task>
     <task id="LOCAL-00001" summary="Ex1">
       <created>1601571576273</created>
@@ -141,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601825527878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kl.k">
+      <created>1602057357525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602057357525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="kl.k">
+      <created>1602057387680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602057387680</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex1" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="kl.k" />
+    <option name="LAST_COMMIT_MESSAGE" value="kl.k" />
   </component>
   <component name="WindowStateProjectService">
     <state x="120" y="55" key="DiffContextDialog" timestamp="1601825477171">
@@ -185,31 +213,36 @@
       <screen x="0" y="0" width="1280" height="728" />
     </state>
     <state x="420" y="105" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1601572015250" />
-    <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1602056801996">
+    <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1602068446161">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801996" />
-    <state width="881" height="278" key="GridCell.Tab.0.center" timestamp="1602056801995">
+    <state width="881" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602068446161" />
+    <state width="881" height="278" key="GridCell.Tab.0.center" timestamp="1602068446161">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801995" />
-    <state width="881" height="278" key="GridCell.Tab.0.left" timestamp="1602056801995">
+    <state width="881" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602068446161" />
+    <state width="881" height="278" key="GridCell.Tab.0.left" timestamp="1602068446160">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801995" />
-    <state width="881" height="278" key="GridCell.Tab.0.right" timestamp="1602056801996">
+    <state width="881" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602068446160" />
+    <state width="881" height="278" key="GridCell.Tab.0.right" timestamp="1602068446161">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="881" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801996" />
+    <state width="881" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602068446161" />
+    <state x="315" y="236" width="420" height="633" key="RollbackChangesDialog" timestamp="1602057756580">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="315" y="236" width="420" height="633" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602057756580" />
     <state x="271" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1602052829573">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="141" y="9" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1601571954930" />
     <state x="271" y="40" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1602052829573" />
-    <state x="232" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601825545378">
-      <screen x="0" y="0" width="1280" height="728" />
+    <state x="403" y="167" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1602057392248">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="232" y="97" key="Vcs.Push.Dialog.v2/0.0.1280.728@0.0.1280.728" timestamp="1601825545378" />
+    <state x="403" y="167" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1602057392248" />
     <state x="457" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601572046158">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
