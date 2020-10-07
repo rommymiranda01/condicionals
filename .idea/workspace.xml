@@ -30,7 +30,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="" />
+    <list default="true" id="c6afed99-6ff7-4ae8-b563-eb38029b3a90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1iHitDu5SZ58rEV8r2pOSnXkqF9" />
@@ -58,9 +61,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex5">
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5" />
+      <module name="Exercicis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7" />
+      <module name="Exercicis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -72,6 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.Ex7" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,6 +114,11 @@
       <workItem from="1601649755674" duration="37000" />
       <workItem from="1601816292172" duration="371000" />
       <workItem from="1601825338666" duration="386000" />
+      <workItem from="1602052169893" duration="218000" />
+      <workItem from="1602052466380" duration="12000" />
+      <workItem from="1602052666677" duration="8000" />
+      <workItem from="1602052696489" duration="52000" />
+      <workItem from="1602052782927" duration="4375000" />
     </task>
     <task id="LOCAL-00001" summary="Ex1">
       <created>1601571576273</created>
@@ -154,10 +185,27 @@
       <screen x="0" y="0" width="1280" height="728" />
     </state>
     <state x="420" y="105" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1601572015250" />
-    <state x="141" y="9" key="SettingsEditor" timestamp="1601571954930">
-      <screen x="0" y="0" width="1280" height="728" />
+    <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1602056801996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801996" />
+    <state width="881" height="278" key="GridCell.Tab.0.center" timestamp="1602056801995">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801995" />
+    <state width="881" height="278" key="GridCell.Tab.0.left" timestamp="1602056801995">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801995" />
+    <state width="881" height="278" key="GridCell.Tab.0.right" timestamp="1602056801996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602056801996" />
+    <state x="271" y="40" width="1024" height="845" key="SettingsEditor" timestamp="1602052829573">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="141" y="9" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1601571954930" />
+    <state x="271" y="40" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1602052829573" />
     <state x="232" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601825545378">
       <screen x="0" y="0" width="1280" height="728" />
     </state>
@@ -166,9 +214,10 @@
       <screen x="0" y="0" width="1280" height="728" />
     </state>
     <state x="457" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.728@0.0.1280.728" timestamp="1601572046158" />
-    <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601825407522">
-      <screen x="0" y="0" width="1280" height="728" />
+    <state x="536" y="396" width="531" height="199" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602056657660">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="324" y="255" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.728@0.0.1280.728" timestamp="1601825407522" />
+    <state x="536" y="396" width="531" height="199" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602056657660" />
   </component>
 </project>
